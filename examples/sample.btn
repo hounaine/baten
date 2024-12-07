@@ -1,0 +1,2 @@
+DB_insert user_table {"id": 1, "name": "Alice"}
+DB_combined_read user_table {"id": 1}
