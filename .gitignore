@@ -1,0 +1,9 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore output files
+*.sql
+
+# Ignore environment files
+.env
