@@ -1,21 +1,31 @@
-MIT License
+BATEN License
 
-Copyright (c) 2024 Honayn
+Copyright (c) 2024 Mohammed-Hounaine EL-HAMIANI KHATAT
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use the BATEN programming language (the "Software") according to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Commercial Projects:**
+   - Commercial users are granted free access to the basic "Version C" of the Software.
+   - Attribution is required for any commercial project using this version. The attribution must state:
+     "Powered by BATEN Programming Language © 2024 Mohammed-Hounaine EL-HAMIANI KHATAT."
+   - Access to advanced features in "Version B" or full functionality in "Version A" requires a paid license.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Non-Commercial Projects:**
+   - Individuals or organizations using the Software for non-commercial purposes are granted free access to the advanced "Version B" of the Software.
+   - Redistribution or sublicensing of this version is not allowed without explicit permission.
+   - Any commercial use of "Version B" requires a paid license.
+
+3. **Attribution:**
+   - All projects, whether commercial or non-commercial, must include the following attribution:
+     "Powered by BATEN Programming Language © 2024 Mohammed-Hounaine EL-HAMIANI KHATAT."
+
+4. **Prohibited Uses:**
+   - It is strictly prohibited to circumvent licensing fees by using the Software for commercial purposes under the guise of non-commercial projects.
+
+5. **Warranty Disclaimer:**
+   - The Software is provided "as is," without warranty of any kind, express or implied.
+
+---
+
+For commercial licensing or inquiries, please contact:
+Email: [hounaine.hamiani@gmail.com]
