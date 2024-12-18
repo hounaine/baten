@@ -110,4 +110,10 @@ git clone https://github.com/your_username/BATEN.git
 cd BATEN
 pip install -r requirements.txt
 
-© 2024 Mohammed-Hounaine EL-HAMIANI KHATAT. Distribué sous licence MIT.
+## 📝 License
+
+This project is distributed under the BATEN License.  
+Please refer to the [LICENSE](./LICENSE) file for more details.
+
+© 2024 Mohammed-Hounaine EL-HAMIANI KHATAT.
+
