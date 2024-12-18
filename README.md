@@ -1,12 +1,6 @@
-# BATEN Programming Language
-
-BATEN is an innovative programming language designed to handle visible and hidden states across multiple contexts. The goal is to enable intuitive and modular programming while exploring concepts such as cascades, secondary states, and strict synchronization.
-
----
-
 # Langage de Programmation BATEN
 
-BATEN est un langage de programmation innovant conçu pour gérer des états visibles et cachés dans différents contextes. Son objectif est de permettre une programmation intuitive et modulaire, tout en explorant des concepts tels que les cascades, les états secondaires et la synchronisation stricte.
+BATEN est un langage de programmation innovant conçu pour gérer quatre types d'états dans différents contextes. Son objectif est de permettre une programmation intuitive et modulaire, tout en explorant des concepts tels que les cascades, les états secondaires et la synchronisation stricte.
 
 ---
 
