@@ -1,10 +1,10 @@
-# Langage de Programmation BATEN | BATEN Programming Language | Lenguaje de Programación BATEN | لغة البرمجة باتين | زبان برنامه‌نویسی باتن | BATEN Programlama Dili | 바텐 프로그래밍 언어 | BATEN プログラミング言語 | BATEN 编程语言 | Bahasa Pemrograman BATEN
+# Langage de Programmation BATEN | BATEN Programming Language | Lenguaje de Programación BATEN | لغة البرمجة باطن | زبان برنامه‌نویسی باطن | BATEN Programlama Dili | 바텐 프로그래밍 언어 | BATEN プログラミング言語 | BATEN 编程语言 | Bahasa Pemrograman BATEN
 
 **BATEN** est un langage de programmation innovant conçu pour unifier et simplifier la gestion des contextes de programmation.  
 **BATEN** is an innovative programming language designed to unify and simplify the management of programming contexts.  
 **BATEN** es un lenguaje de programación innovador diseñado para unificar y simplificar la gestión de contextos de programación.  
-**باتين** هي لغة برمجة مبتكرة مصممة لتوحيد وتبسيط إدارة سياقات البرمجة.  
-**باتن** یک زبان برنامه‌نویسی نوآورانه است که برای یکپارچه‌سازی و ساده‌سازی مدیریت زمینه‌های برنامه‌نویسی طراحی شده است.  
+**باطين** هي لغة برمجة مبتكرة مصممة لتوحيد وتبسيط إدارة سياقات البرمجة.  
+**باطن** یک زبان برنامه‌نویسی نوآورانه است که برای یکپارچه‌سازی و ساده‌سازی مدیریت زمینه‌های برنامه‌نویسی طراحی شده است.  
 **BATEN**, programlama bağlamlarının yönetimini birleştirmek ve basitleştirmek için tasarlanmış yenilikçi bir programlama dilidir.  
 **바텐**은 프로그래밍 맥락의 관리를 통합하고 단순화하기 위해 설계된 혁신적인 프로그래밍 언어입니다.  
 **BATEN** は、プログラミングコンテキストの管理を統一して簡素化するために設計された革新的なプログラミング言語です。  
@@ -19,8 +19,8 @@
   BATEN permet une gestion optimisée des instructions, garantissant une modularité et une flexibilité sans précédent dans la programmation.  
   BATEN provides optimized instruction management, ensuring unparalleled modularity and flexibility in programming.  
   BATEN permite una gestión optimizada de instrucciones, asegurando modularidad y flexibilidad sin precedentes en la programación.  
-  يتيح باتين إدارة محسّنة للتعليمات، مما يضمن مرونة ووحدوية غير مسبوقة في البرمجة.  
-  باتن امکان مدیریت بهینه دستورها را فراهم می‌کند و ماژولاریتی و انعطاف‌پذیری بی‌سابقه‌ای را در برنامه‌نویسی تضمین می‌کند.  
+  يتيح باطن إدارة محسّنة للتعليمات، مما يضمن مرونة ووحدوية غير مسبوقة في البرمجة.  
+  باطن امکان مدیریت بهینه دستورها را فراهم می‌کند و ماژولاریتی و انعطاف‌پذیری بی‌سابقه‌ای را در برنامه‌نویسی تضمین می‌کند.  
   BATEN, komutların optimize edilmiş bir şekilde yönetilmesini sağlayarak programlamada benzersiz bir esneklik ve modülerlik sunar.  
   BATEN은 지침 관리를 최적화하여 프로그래밍에서 전례 없는 모듈성과 유연성을 보장합니다.  
   BATEN は、命令の管理を最適化し、プログラミングにおいて前例のないモジュール性と柔軟性を保証します。  
